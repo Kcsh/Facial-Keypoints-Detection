@@ -16,3 +16,6 @@ Detecing facial keypoints is a very challenging problem.  Facial features vary g
 Part 1 : Investigating OpenCV, pre-processing, and face detection
 
 Part 2 : Training a Convolutional Neural Network (CNN) to detect facial keypoints
+
+
+# PROJECT IS ONGOING
