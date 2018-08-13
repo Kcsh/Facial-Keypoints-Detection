@@ -20,11 +20,16 @@ Part 2 : Training a Convolutional Neural Network (CNN) to detect facial keypoint
 
 This project requirments
 Numpy
+
 Pandas
+
 Scikit-learn
+
 Tensorflow
+
 Keras
+
 OpenCv
 
 
-Data found here: 
+Data found here: https://goo.gl/8VwEGi
