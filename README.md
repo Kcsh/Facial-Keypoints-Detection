@@ -18,4 +18,13 @@ Part 1 : Investigating OpenCV, pre-processing, and face detection
 Part 2 : Training a Convolutional Neural Network (CNN) to detect facial keypoints
 
 
-# PROJECT IS ONGOING
+This project requirments
+Numpy
+Pandas
+Scikit-learn
+Tensorflow
+Keras
+OpenCv
+
+
+Data found here: 
